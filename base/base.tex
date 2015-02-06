@@ -1,0 +1,14 @@
+\ifdefined\formula
+\else
+    \def\formula{FORMULA_VALUE}
+\fi
+\documentclass[border=0pt]{standalone}
+\usepackage{amsmath}
+\usepackage{varwidth}
+\usepackage{xcolor}
+\begin{document}
+\color{COLOR_VALUE}
+\begin{varwidth}{\linewidth}
+\[ \formula \]
+\end{varwidth}
+\end{document}

@@ -1,0 +1,15 @@
+1.
+yum install texlive-latex
+
+2. 
+install standalone: 
+
+    a. download http://mirrors.ctan.org/install/macros/latex/contrib/standalone.tds.zip. 
+    b. unzip it in your local TEXMF folder, usually ~/texmf. You might need to run texhash ~/texmf afterwards.
+ 
+3.
+yum install poppler-utils
+
+4.
+install ImageMagick 6.8+
+http://serverfault.com/questions/446474/install-recent-imagemagick-on-centos-6-3

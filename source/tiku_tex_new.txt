@@ -1,0 +1,2 @@
+228612<tiku>10<tiku>10a890933e783d05a99245e09bd0ff58<tiku>M\left( 1，frac{1}{2}\\right)
+228735<tiku>a1<tiku>cc<tiku>\left\{ \begin{matrix}& \frac{{{x}^{2}}}{2}+{{y}^{2}}=1,\\ & y=k(x-1), \\\end{matrix} \right.

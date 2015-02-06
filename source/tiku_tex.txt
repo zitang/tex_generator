@@ -1,0 +1,4 @@
+228735<tiku>a1<tiku>a1efc1418629ac8439a90aea0105798f<tiku>\left\{ \begin{matrix}& \frac{{{x}^{2}}}{2}+{{y}^{2}}=1,\\ & y=k(x-1), \\\end{matrix} \right.
+228735<tiku>a1<tiku>aa<tiku>\left\{ \begin{matrix}& \frac{{{x}^{2}}}{2}+{{y}^{2}}=1,\\ & y=k(x-1), \\\end{matrix} \right.
+228695<tiku>74<tiku>745b5250b9001949095ab6b437c5259c<tiku>\left\{ \begin{matrix}& \left( a-\sqrt{3} \right)x+y=0\\ \\\ &\sqrt{3}x-z=0. \\\end{matrix} \right.
+228735<tiku>a1<tiku>cc<tiku>\left\{ \begin{matrix}& \frac{{{x}^{2}}}{2}+{{y}^{2}}=1,\\ & y=k(x-1), \\\end{matrix} \right.

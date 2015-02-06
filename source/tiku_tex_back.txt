@@ -1,0 +1,204 @@
+228612<tiku>10<tiku>10a890933e783d05a99245e09bd0ff58<tiku>M\left( 1，frac{1}{2}\\right)
+228613<tiku>33<tiku>33f7baf8f1c86a624f2013af01ab93d1<tiku>\left\{\begin{align}& y=1 \\ & {{x}^{2}}=4y \\\end{align} \right.
+228614<tiku>0c<tiku>0c9d67db1f606e2c33cf99aff530c3d8<tiku>\left\{ \begin{align}& 2x-y+1>0 \\ & x+m<0 \\ &y-m>0 \\\end{align} \right.
+228615<tiku>83<tiku>83c7c9522e806b07aa671857f1e72cc5<tiku>\left\{ \begin{align}& m<-2m+1 \\ &1-2m>-\frac{1}{2}m-1 \\ & m<-\frac{1}{2}m-1 \\\end{align} \right.
+228616<tiku>8f<tiku>8f4b507c60bb898d9cc922d8a55dfd2a<tiku>\left\{ \begin{align}& {{a}_{1}}q+{{a}_{1}}{{q}^{3}}=20 \\ &{{a}_{1}}{{q}^{2}}+{{a}_{1}}{{q}^{4}}=40 \\\end{align} \right.
+228617<tiku>c5<tiku>c5faf00515c270cc64eb5d65e3c538fb<tiku>\left\{\begin{align}& {{a}_{1}}=2 \\ & q=2 \\\end{align} \right.
+228618<tiku>04<tiku>0411f2132e58d6b96ff34f7d5fabfa64<tiku>\left\{ \begin{align}& -1=-\lambda +6\mu  \\ & -3=\lambda +2\mu  \\\end{align} \right.
+228619<tiku>ea<tiku>ea06837adc44ee601563894aaf6909a9<tiku>\left\{ \begin{align}& \boldsymbol{n}\cdot\overrightarrow{{{A}_{1}}B}=0 \\ & \boldsymbol{n}\cdot\overrightarrow{{{A}_{1}}{{C}_{1}}}=0 \\\end{align} \right.
+228620<tiku>aa<tiku>aa019f9de39b8aa48294cfb9a9d8061d<tiku>\left\{\begin{align}& 3y-z=0 \\ & 4x=0 \\\end{align} \right.
+228621<tiku>01<tiku>0132180cfa186760b61678753e0e38be<tiku>\left\{ \begin{matrix}& \overrightarrow{{{A}_{1}}B}\cdot\overrightarrow{n}=0 \\ & \overrightarrow{{{A}_{1}}E}\cdot \overrightarrow{n}=0\\\end{matrix} \right.
+228622<tiku>e1<tiku>e127376d6e1fbb4c19b66f84c0355a58<tiku>\left\{ \begin{align}& 0\le x\le 2 \\ & 0\le y\le 2 \\\end{align}\right.
+228623<tiku>4a<tiku>4a6c21c2df475664877c51f25bb5dcfe<tiku>\left\{ \begin{align}& a=2， \\ &\frac{c}{a}=\frac{\sqrt{2}}{2}， \\ & {{a}^{2}}={{b}^{2}}+{{c}^{2}}， \\\end{align}\right.
+228624<tiku>9b<tiku>9bd494e823340b3210a5aa1a49c8ad43<tiku>\left\{ \begin{align}& y=k(x-1)， \\ &\frac{{{x}^{2}}}{4}+\frac{{{y}^{2}}}{2}=1， \\\end{align} \right.
+228625<tiku>05<tiku>054c811dbec608f77d5f76d4643d4a76<tiku>\text{Rt}\triangleACO’
+228626<tiku>77<tiku>771b3f10480d20889fd3d8fa49c2bf29<tiku>\left\{ \begin{matrix}&n+1=3 \\ & 2{{x}_{0}}+n+1=21 \\\end{matrix} \right.
+228627<tiku>9b<tiku>9b566a8fd98e7b00d08ad395aed8c68f<tiku>\left\{ \begin{matrix}&n+1=7 \\ & 2{{x}_{0}}+n+1=9 \\\end{matrix} \right.
+228628<tiku>8d<tiku>8d252a82de3943eb6104a7b741aff63f<tiku>\left\{ \begin{matrix}&n=2 \\ & {{x}_{0}}=9 \\\end{matrix} \right.
+228629<tiku>92<tiku>923aecbed019728477711cd29679b721<tiku>\left\{ \begin{matrix}&n=6 \\ & {{x}_{0}}=1 \\\end{matrix} \right.
+228630<tiku>a3<tiku>a3714ee062b079df9e74e00a5cb48f5b<tiku>2\leqslantx\leqslant4
+228631<tiku>e8<tiku>e81eac7e7aaeb7c706671e4ab26b1d07<tiku>\triangleDMN
+228632<tiku>e8<tiku>e81c7af010426db9392c2196471fe7ad<tiku>\triangleABC
+228633<tiku>46<tiku>46180e969c9b4e131520d24b58da80dc<tiku>f&#39;(x) = \frac{{{e^{ax}}(a{x^2} - 2x + a)}}{{{{({x^2} + 1)}^2}}}
+228634<tiku>64<tiku>64f2dbc7fe6282f1002345ac83be2428<tiku>f&#39;(x) = \frac{{{e^x}({x^2} - 2x + 1)}}{{{{({x^2} + 1)}^2}}}
+228635<tiku>89<tiku>89f4244d51c283c0a521db4e4540306e<tiku>f&#39;(0) = 1
+228636<tiku>58<tiku>585fd33c73151ca11e3dca73d75c7ca8<tiku>f&#39;(x) = \frac{{{e^{ax}}(a{x^2} - 2x + a)}}{{{{({x^2} + 1)}^2}}} = \frac{{{e^{ax}}}}{{{{({x^2} + 1)}^2}}}(a{x^2} - 2x + a)
+228637<tiku>f8<tiku>f809e0c2390d433b120878ed0acbe781<tiku>f&#39;(x) > 0
+228638<tiku>2e<tiku>2eb6992f94ba8e84f322201dbc86efe9<tiku>f&#39;(x) < 0
+228639<tiku>86<tiku>861c2f70b4c402be731902380d932304<tiku>f&#39;(x) \geqslant 0
+228640<tiku>cd<tiku>cdcc9e6a61e27b9c10e6d9929312e46c<tiku>f&#39;(x) \leqslant 0
+228641<tiku>de<tiku>de46600acab39428443e934deb4533c6<tiku>\left\{ \begin{align}& x-1=2\lambda +\mu  \\ & y+1=\lambda +2\mu  \\\end{align} \right.
+228642<tiku>3a<tiku>3a60b8f3e83609b9841de3c90450d6bc<tiku>\left\{\begin{align}& \lambda =\frac{2}{3}x-\frac{1}{3}y-1 \\ & \mu=-\frac{1}{3}x+\frac{2}{3}y+1 \\\end{align} \right.
+228643<tiku>b3<tiku>b3a3078d79ea0d9ba872cc56af12887d<tiku>\left\{ \begin{align}& 1\leqslant\frac{2}{3}x-\frac{1}{3}y-1\leqslant2 \\& 0\leqslant -\frac{1}{3}x+\frac{2}{3}y+1\leqslant1 \\\end{align} \right.
+228644<tiku>9f<tiku>9f3a2a875e4d533f6b126ec71e978fd9<tiku>\left\{ \begin{align}& {{x}^{2}}+4{{y}^{2}}=4 \\ & y=kx+m \\\end{align}\right.
+228645<tiku>38<tiku>388ad93db5336ab1eeb9f07af2b06a5d<tiku>\left\{ \begin{align}& y=k(x-m)， \\ &\frac{x_{{}}^{2}}{4}+y_{{}}^{2}=1. \\\end{align}\right.(1+4k_{{}}^{2})x_{{}}^{2}-8{{k}^{2}}mx+4{{k}^{2}}{{m}^{2}}-4=0
+228646<tiku>ec<tiku>ec799a065046e69a0f430d2215032fda<tiku>\left\{ \begin{align}& y=x+m \\ &\frac{x_{{}}^{2}}{12}+\frac{y_{{}}^{2}}{4}=1 \\\end{align} \right.
+228647<tiku>cc<tiku>cc69b163dab2f5f74e606fd05810b224<tiku>\left\{\begin{align}& x=t+3, \\ & y=t+1 \\\end{align} \right.
+228648<tiku>02<tiku>0215c94235c55c6f096a48a643041a25<tiku>\]与\[
+228649<tiku>ad<tiku>ad0834b60083195bf68abfaa5d4cd457<tiku>\left\{ \begin{align}& n\cdot \overrightarrow{EB}=0\ , \\ &n\cdot \overrightarrow{ED}=0\ . \\\end{align} \right.
+228650<tiku>4d<tiku>4df17e2cad1046e32baf14ba9b373dcc<tiku>\left\{ \begin{align}& 2x-y-\sqrt{3}z=0\ , \\ & y=0\ . \\\end{align}\right.
+228651<tiku>0e<tiku>0e248497024f74e01d74362b67b69617<tiku>\left\{ \begin{align}& y=kx+m, \\ &\frac{{{x}^{2}}}{4}+\frac{{{y}^{2}}}{3}=1 \\\end{align} \right.
+228652<tiku>ac<tiku>ac8a76f6900d53e20f9f97962108147b<tiku>{f}&#39;(x)=\frac{2}{x}+1=\frac{x+2}{x}
+228653<tiku>93<tiku>93b4d5a76501a5b532e6b6b6b34598e1<tiku>{f}&#39;(1)=3
+228654<tiku>e6<tiku>e6680380608970dd0e1de7c14c11d814<tiku>{f}&#39;(x)=\frac{m}{x}+m-1=\frac{(m-1)x+m}{x}
+228655<tiku>40<tiku>40ef2f9787f7b3b8246e4e7e87a91ceb<tiku>{f}&#39;(x)=\frac{m}{x}+m-1<0
+228656<tiku>5d<tiku>5d5346f5395b182dfbcb94c0f12bc90c<tiku>{f}&#39;(x)=\frac{m}{x}+m-1>0
+228657<tiku>3c<tiku>3cade44f2653f43ea4f6c299bb02e977<tiku>{f}&#39;(x)>0
+228658<tiku>10<tiku>107ff6a38ec285a02b70dbeb7c59c00f<tiku>{f}&#39;(x)<0
+228659<tiku>c4<tiku>c40c5292db7e584e6ed72f6029118c24<tiku>\left\{ \begin{align}& y=k(x+2), \\ &\frac{{{x}^{2}}}{8}+\frac{{{y}^{2}}}{4}=1 \\\end{align} \right.
+228660<tiku>25<tiku>25e4fcc563f93323793224b3aab5dfdf<tiku>\left\{ \begin{align}& x=2\cos \alpha \\ & y=1+2\sin \alpha \\\end{align} \right.
+228661<tiku>21<tiku>21031e376892251b186552571e877952<tiku>\left\{\begin{align}& x=2\cos \alpha \\ &y-1=2\sin \alpha \\\end{align} \right.
+228663<tiku>f1<tiku>f1dbe81d8d64a7d13da2a69f8774474e<tiku>a\leqslantb\leqslant c
+228664<tiku>10<tiku>100587c6f376e5f854f8b9c25f04dc68<tiku>\left\{ \begin{align}& n\cdot \overrightarrow{CE}=0, \\ &n\cdot \overrightarrow{CA}=0. \\\end{align} \right.
+228665<tiku>b3<tiku>b3918aec5452a8b0f7879bbb322de783<tiku>\left\{ \begin{align}&\frac{\sqrt{3}}{2}x-\frac{1}{2}y+z=0, \\ & \sqrt{3}x=0. \\\end{align}\right.
+228666<tiku>e2<tiku>e2ef9d92b2abc91d873a1a3d58e5ad56<tiku>\left\{ \begin{align}& m\cdot \overrightarrow{CB}=0, \\ &m\cdot \overrightarrow{CQ}=0. \\\end{align} \right.
+228667<tiku>1e<tiku>1ed623f9efa73216ddd669eb462ad343<tiku>\left\{ \begin{align}& b=0, \\ &\frac{\sqrt{3}}{2}a-\frac{1}{2}b+tc=0. \\\end{align} \right.
+228668<tiku>c2<tiku>c21156d5b9d6e8da1ffbac5f168294f7<tiku>\left\{ \begin{align}& x+1\ge 0, \\ & x-y+1\ge 0, \\ &x+y-2\le 0, \\\end{align} \right.
+228669<tiku>36<tiku>365488a74cbf989273d5f7c1d07f7411<tiku>f(x)=\left\{ \begin{align}& {{\log }_{2}}x,\ x>0, \\ &{{2}^{x}}, \ x<0, \\\end{align} \right.
+228670<tiku>8d<tiku>8db47ac0f872cab7ac78fa090d254174<tiku>{f}&#39;(x)={{\text{e}}^{x}}+a
+228671<tiku>cb<tiku>cb681afbbf8ad6eb10a87acd104eef88<tiku>{f}&#39;(x)=0
+228672<tiku>40<tiku>40a783ca94163120b82c57269c35e229<tiku>{f}&#39;(x)
+228673<tiku>91<tiku>91c655428120feaf131e8a0de8df3a19<tiku>{g}&#39;(x)=a-\frac{1}{x}=\frac{ax-1}{x}
+228674<tiku>7d<tiku>7d701bc6b739af36b532c43cd3bf49f0<tiku>{g}&#39;(x)<0
+228675<tiku>86<tiku>86aac599b52cab00ad77758bb18b9626<tiku>\left\{ \begin{align}  & x+y\le 3, \\  & y\le x+1, \\  & x+3y\ge 3, \\ \end{align} \right.
+228676<tiku>95<tiku>958fefe1bef05144961afbb599b9ce5d<tiku>\left\{ \begin{align}  & {{a}_{3}}=2 \\  & {{a}_{5}}=6 \\ \end{align} \right.
+228677<tiku>74<tiku>7491a93069fe7f66c57f4c8fd96d2fb0<tiku>\left\{ \begin{align}  & {{a}_{3}}=-2 \\  & {{a}_{5}}=10 \\ \end{align} \right.
+228678<tiku>5d<tiku>5d4b3bd94f724fcfa8aa2bdf286145c0<tiku>\left\{ \begin{align}  & {{x}^{2}}+{{y}^{2}}-1\le 0 \\  & y\ge 0 \\ \end{align} \right.
+228679<tiku>3d<tiku>3d44517436f64db54abf86760d27e418<tiku>\left\{ \begin{align}  & -t\le x\le t \\  & 0\le y\le \sqrt{1-{{t}^{2}}} \\ \end{align}\right.
+228680<tiku>34<tiku>34e25ff2bbe46a56d13bb432d1708484<tiku>\left\{ \begin{align}  & \overrightarrow{v}\cdot\overrightarrow{C{{D}_{1}}}=0 \\  &\overrightarrow{v}\cdot \overrightarrow{CE}=0 \\ \end{align} \right.
+228681<tiku>94<tiku>949500ac3cac341a54f99dcd0b44feb0<tiku>\left\{ \begin{align}  & -y+z=0, \\  & x+(m-1)y=0, \\ \end{align} \right.
+228682<tiku>26<tiku>260e1f689bbbbd1f2bece4066541bb78<tiku>\left\{ \begin{align}  & x+y-4\le 0, \\  & x-y+4\ge 0, \\  & y\ge 0 \\ \end{align} \right.
+228683<tiku>b8<tiku>b8da1c7eb665ac7b39d0a6dd7559f674<tiku>\left\{ \begin{align}  & -1\le x\le 1 \\  & 0\le y\le 3 \\ \end{align} \right.
+228684<tiku>7d<tiku>7d935783a7ccdbb08ab4d5bbb42c9779<tiku>\left\{ \begin{matrix}& 2{{x}^{2}}+3{{y}^{2}}=9, \\ & y=kx+m\\\end{matrix} \right.
+228685<tiku>6b<tiku>6bfe4c3c5a460eecf2ff44f33da6c718<tiku>\left\{ \begin{matrix}& 3x-2(y-2)=0, \\ & 2(5-x)+2(2-y)=0 \\\end{matrix}\right.,
+228686<tiku>1a<tiku>1ab58388c6bee1d946ba33b544194007<tiku>\left\{ \begin{matrix}& x=2 \\ & y=5 \\\end{matrix} \right.
+228687<tiku>17<tiku>17d76e79738f156d0b7e21db0f762db4<tiku>\left\{ \begin{matrix}& \text{-}{{\lambda}_{1}}\text{+}{{\lambda }_{2}}\text{-}{{\lambda }_{3}}=9(1) \\ & 3{{\lambda}_{1}}\text{+}3{{\lambda }_{2}}\text{+}3{{\lambda }_{3}}=1(2) \\\end{matrix} \right.
+228688<tiku>e1<tiku>e106a247037cde4399e1c33acf6e6f24<tiku>\left\{ \begin{matrix}& \sum\limits_{i\text{=}1}^{n-1}{-{{\lambda}_{i}}{{b}_{i}}=\sum\limits_{i=1}^{n-1}{{{a}_{i}}\begin{matrix} , & (1) \\\end{matrix}}}\\ & \sum\limits_{i\text{=}1}^{n-1}{{{\lambda }_{i}}{{a}_{i}}=\sum\limits_{i=1}^{n-1}{{{b}_{i}}\begin{matrix}. & (2) \\\end{matrix}}} \\\end{matrix} \right.
+228689<tiku>0b<tiku>0b7281ca7f2bf63d7abd8021b936d3c8<tiku>{{a}_{i}}\text{=}3,{{b}_{i}}\text{=}\left\{ \begin{matrix}&1,i为奇数 \\ & -1,i为偶数 \\\end{matrix} \right.,i=1,2,3,\cdots ,n-1
+228690<tiku>3b<tiku>3bb17a0b6841286d48b9993cdc905018<tiku>{{a}_{i}}\text{=}3{{b}_{i}}\text{=}\left\{\begin{matrix}& 1,i为奇数 \\ & \text{-}1,i为偶数 \\\end{matrix} \right.,i=2,3,\cdots,n-1
+228691<tiku>3f<tiku>3f36739e90f0e2215f589607295002f9<tiku>\left\{\begin{matrix}&x-y+2\le 0\,\, ,\\&x\ge 1\,\,,\\&x+y-7\le 0\,\, ,\\\end{matrix}\right.
+228692<tiku>fa<tiku>fa2cc65d38b3d0bd2e3eef55bf321023<tiku>\left\{ \begin{matrix}& y=kx+2\,\, \\ & \frac{{{x}^{2}}}{3}+{{y}^{2}}=1\,\,\\\end{matrix} \right.
+228693<tiku>64<tiku>64599ddf3518a35655e34d0e1b2d2984<tiku>\left\{ \begin{matrix}& y=t(x-{{x}_{0}})+{{y}_{0}}\,\, \\ &\frac{{{x}^{2}}}{3}+{{y}^{2}}=1\,\, \\\end{matrix} \right.
+228694<tiku>b7<tiku>b73a17fe890d0eae72c4f08219ee983d<tiku>\left\{ \begin{matrix}&\overrightarrow{m}\cdot \overrightarrow{DE}=0\\ \\\ & \overrightarrow{m}\cdot\overrightarrow{PD}=0. \\\end{matrix} \right.
+228695<tiku>74<tiku>745b5250b9001949095ab6b437c5259c<tiku>\left\{ \begin{matrix}& \left( a-\sqrt{3} \right)x+y=0\\ \\\ &\sqrt{3}x-z=0. \\\end{matrix} \right.
+228696<tiku>57<tiku>572ab4cc64e7cf36e182deeb4c275c73<tiku>\left\{ \begin{matrix}& f\left( 2 \right)<1\\ \\\ & f\left(\text{e}+1 \right)<1. \\\end{matrix} \right.
+228697<tiku>08<tiku>08462f1b190530fa4ca3adf7ac3ab262<tiku>\left\{ \begin{matrix}& 4a<1\\ \\\ & a{{\left( \text{e}+1\right)}^{2}}-4<1. \\\end{matrix} \right.
+228698<tiku>63<tiku>63a4a843fd0316fa8ebb02bb2bb829e1<tiku>\left\{ \begin{matrix}&\frac{{{x}^{2}}}{3}+{{y}^{2}}=1\\ \\\ & y=kx+\frac{3}{2}. \\\end{matrix} \right.
+228699<tiku>c4<tiku>c4e12439c0314e23c0f5524d9d6cf0a8<tiku>f(x)=\left\{ \begin{matrix}& 1-{{\ln }^{2}}x,x>1 \\ & -{{\ln}^{2}}x,x=1 \\ & -1-{{\ln }^{2}}x,x<1 \\\end{matrix} \right.
+228700<tiku>e9<tiku>e92c2527194c6b09bf2af5b2e609e775<tiku>\left\{ \begin{matrix}& n\cdot \overrightarrow{EB}=0, \\ &n\cdot \overrightarrow{E{{D}_{1}}}=0, \\\end{matrix} \right.
+228701<tiku>42<tiku>429434b671bfb3892f3142f357c0f08e<tiku>\left\{ \begin{matrix}&x+y=0, \\ & z=0. \\\end{matrix} \right.
+228702<tiku>0f<tiku>0f3a485721d163bc54d44439f8afb664<tiku>\left\{ \begin{matrix}& m\cdot \overrightarrow{CB}=0, \\ &m\cdot \overrightarrow{C{{B}_{1}}}=0, \\\end{matrix} \right.
+228703<tiku>5d<tiku>5d83584de677be1c862147275b848407<tiku>\left\{ \begin{matrix}&{{x}_{1}}=0, \\ & {{x}_{1}}+{{y}_{1}}+a{{z}_{1}}=0. \\\end{matrix} \right.
+228704<tiku>86<tiku>86368e317e893eb9095d172d85c56dca<tiku>\left\{ \begin{matrix}& y=kx+m \\ & \frac{{{x}^{2}}}{2}+{{y}^{2}}=1\\\end{matrix} \right.
+228705<tiku>12<tiku>126b7bc9019ce1ad4a3a331700ec5a03<tiku>\left\{ \begin{matrix}& m-10={{a}^{2}}>0 \\ & m-8={{b}^{2}}>0\\\end{matrix} \right.
+228706<tiku>46<tiku>467e88b08311ae0c856869dec2ca451a<tiku>\left\{ \begin{matrix}& m-10=-{{b}^{2}}<0 \\ & m-8=-{{a}^{2}}<0\\\end{matrix} \right.
+228709<tiku>a0<tiku>a088cde2dd033287e4513e63e1182bcf<tiku>\begin{matrix}& {{S}_{n}}-{{T}_{n}}=({{a}_{k}}+{{a}_{k+1}}+\cdots+{{a}_{n}})-({{b}_{k}}+{{b}_{k+1}}+\cdots +{{b}_{n}}) \\ & \\\end{matrix}
+228710<tiku>75<tiku>752ed82aa0c29d66306293801c976279<tiku>\left\{ \begin{matrix}& x-y+2\le 0\,\, \\ & x\ge 1\,\, \\ &x+y-7\le 0\,\, \\\end{matrix} \right.
+228711<tiku>2d<tiku>2d5580ea27bf2ad86f0849950a59342c<tiku>\left\{\begin{matrix}& \text{-}{{\lambda }_{1}}\text{+}{{\lambda }_{2}}\text{-}{{\lambda}_{3}}\text{=}9 \\ & 3{{\lambda }_{1}}\text{+}3{{\lambda }_{2}}\text{+}3{{\lambda}_{3}}\text{=}1 \\\end{matrix} \right.
+228712<tiku>60<tiku>6067df8ac63f98d9d79f3a2b98c231d4<tiku>\left\{ \begin{matrix}& \sum\limits_{i\text{=}1}^{4}{-{{\lambda}_{i}}{{b}_{i}}=\sum\limits_{i=1}^{4}{{{a}_{i}},}} \\ & \sum\limits_{i\text{=}1}^{4}{{{\lambda}_{i}}{{a}_{i}}=\sum\limits_{i=1}^{4}{{{b}_{i}}.}} \\\end{matrix} \right.
+228714<tiku>f7<tiku>f71c24f748e7a5f5fe6bbc5a4a04d701<tiku>\left\{ \begin{matrix}& y=x+m, \\ & \frac{{{x}^{2}}}{3}+{{y}^{2}}=1.\\\end{matrix} \right.
+228715<tiku>7f<tiku>7f84a497c603b9ee57e8bd9c9d33bcee<tiku>f(x)=\left\{ \begin{matrix}& 1-{{\text{ln} }^{2}}x,x>1 \\ & -{{\ln}^{2}}x,x=1 \\ & -1-{{\ln }^{2}}x,x<1 \\\end{matrix} \right.
+228716<tiku>fc<tiku>fc77dadc8f06be3c5c2a2214166491c0<tiku>\left\{ \begin{matrix}& y=\frac{b}{a}x \\ & y={{x}^{2}}+2 \\\end{matrix}\right.
+228717<tiku>5f<tiku>5fc7cc6522e297a843b14276b827c0b6<tiku>F(x)=\left\{\begin{matrix} f(x), & x>0, \\ -f(x), & x<0. \\\end{matrix} \right.
+228718<tiku>26<tiku>268b2f52e2530f19d4e7e418168ce2f0<tiku>\left\{ \begin{matrix}& y=k\left( x-1 \right) \\ & {{x}^{2}}+2{{y}^{2}}=2\\\end{matrix} \right.
+228721<tiku>b1<tiku>b1a101ce30e6569b3d67782ed841b387<tiku>\left\{\begin{matrix}& {{n}_{1}}\cdot \overrightarrow{GF}=0 \\ & {{n}_{1}}\cdot\overrightarrow{GH}=0 \\\end{matrix} \right.
+228722<tiku>03<tiku>037baa472f68e2d231722371da7bbf68<tiku>\left\{ \begin{matrix}&-{{x}_{1}}+\frac{1}{2}{{z}_{1}}=0 \\ & -2{{x}_{1}}+\frac{1}{2}{{z}_{1}}=0 \\\end{matrix}\right.
+228723<tiku>ca<tiku>ca5c8e55a5d65fee9598592bfb2bf915<tiku>\left\{ \begin{matrix}&{{n}_{2}}\cdot \overrightarrow{PB}=0 \\ & {{n}_{2}}\cdot \overrightarrow{PC}=0\\\end{matrix} \right.
+228724<tiku>4a<tiku>4a2597b32c90df1344f9b00190778e37<tiku>\left\{ \begin{matrix}& 2{{x}_{2}}+2{{y}_{2}}-2{{z}_{2}}=0 \\ &2{{y}_{2}}-2{{z}_{2}}=0 \\\end{matrix} \right.
+228725<tiku>13<tiku>1301866d6ef70be30eb93b8a5d9a1632<tiku>{{S}_{n}}=\left\{ \begin{matrix}& 1,n=1\\ & \frac{(n-k)(3n-3k-1)}{2}+\frac{2({{4}^{k}}-1)}{3},n\in \left( \frac{{{2}^{2k-1}}+3k-1}{3},\frac{{{2}^{2k+1}}+3k+2}{3}\right)(k,n\in {{\mathbf{N}}^{*}}) \\\end{matrix} \right.
+228726<tiku>96<tiku>9677b4524292c632a8528b637f63854f<tiku>{{S}_{n}}=\left\{ \begin{matrix}& 1,n=1 \\ & \frac{(n-k)(3n-3k-1)}{2}+\frac{2({{4}^{k}}-1)}{3},n\in\left( \frac{{{2}^{2k-1}}+3k-1}{3},\frac{{{2}^{2k+1}}+3k+2}{3} \right)(k,n\in {{\mathbf{N}}^{*}})\\\end{matrix} \right.
+228727<tiku>f2<tiku>f2678a786a3f60629222d00a32663ab0<tiku>\left\{ \begin{matrix}& \overrightarrow{n}\cdot \overrightarrow{PC}=0\\ & \overrightarrow{n}\cdot \overrightarrow{PB}=0 \\\end{matrix} \right.
+228728<tiku>c7<tiku>c740d440db4e58d663e5f293f2066da1<tiku>\left\{ \begin{matrix}&2x+2\sqrt{3}y-4z=0 \\ & 4x-4z=0 \\\end{matrix} \right.
+228729<tiku>34<tiku>342f35174b81b496b008f9ea5b46ef43<tiku>\left\{ \begin{matrix}& y=kx \\ & {{x}^{2}}+2{{y}^{2}}-2=0\\\end{matrix} \right.
+228730<tiku>06<tiku>06ce463dff2342138591bd2580cfcaa3<tiku>T=\left\{ \begin{matrix}& \frac{{{n}^{2}}+205n-10098}{2},50\le n<100 \\ & {{(n+1)}^{2}},n\ge 100 \\ & {{n}^{2}}+2n,n\ge 100 \\\end{matrix}\right.
+228731<tiku>ab<tiku>ab91cab6687da901c02d91e47833add9<tiku>\left\{ \begin{matrix}& \mathbf{n}\cdot \overrightarrow{AH}=0 \\& \mathbf{n}\cdot \overrightarrow{AB}=0 \\\end{matrix} \right.
+228732<tiku>b4<tiku>b4def156ca94bb92712350a3babc9815<tiku>\left\{ \begin{matrix}&y+z=0 \\ & x+2y=0 \\\end{matrix} \right.
+228733<tiku>3c<tiku>3c6f1738f09c22823bd08f4a90d78520<tiku>\left\{ \begin{matrix}& 3{{x}^{2}}+4{{y}^{2}}=12, \\ &y=kx+m, \\\end{matrix} \right.
+228734<tiku>c3<tiku>c3162e3ded333d0dfd29517502300097<tiku>f(x)=\left\{ \begin{matrix}& -{{x}^{2}}+4x,x\leqslant 4, \\ & {{\log}_{2}}x,x>4 \\\end{matrix} \right.
+228735<tiku>a1<tiku>a1efc1418629ac8439a90aea0105798f<tiku>\left\{ \begin{matrix}& \frac{{{x}^{2}}}{2}+{{y}^{2}}=1,\\ & y=k(x-1), \\\end{matrix} \right.
+228736<tiku>7d<tiku>7d2dbbb8cde9405c35236b5bbca246b3<tiku>\left\{ \begin{matrix}& \frac{{{x}^{2}}}{2}+{{y}^{2}}=1, \\ &{{x}^{2}}+{{y}^{2}}=1, \\\end{matrix} \right.
+228737<tiku>ba<tiku>babfce5ea0434ad48fe82b893e542bc3<tiku>\left\{ \begin{matrix}& x=1 \\ & y=\sqrt{3} \\\end{matrix}\right.
+228738<tiku>38<tiku>389d3c4786eb476cb896a9c05ef8cc82<tiku>\left\{ \begin{matrix}& \overrightarrow{HB}\cdot \overrightarrow{n}=0\\ & \overrightarrow{HP}\cdot \overrightarrow{n}=0 \\\end{matrix} \right.
+228739<tiku>6a<tiku>6af9ee357a68e5dbe0b0f39d8367bb6e<tiku>\left\{ \begin{matrix}&\sqrt{3}x+y=0 \\ & z=0 \\\end{matrix} \right.
+228740<tiku>70<tiku>7091fad54d83afbdeee60c1ac1f9402b<tiku>x=t(t\nea)
+228741<tiku>eb<tiku>ebd59e184e0d98c797285d3a84082b09<tiku>\left\{ \begin{matrix}& y=kx+t \\ & \frac{{{x}^{2}}}{3}+{{y}^{2}}=1\\\end{matrix} \right.
+228742<tiku>d6<tiku>d6a07a8097c52b72e550570670e95c73<tiku>S=\left\{ \begin{matrix}& {{\log }_{2}}x,x>1 \\ & {{2}^{-x}},x\le 1 \\\end{matrix} \right.,
+228743<tiku>06<tiku>0627d4d95b550f6d7f9d055b203cb9f9<tiku>\left\{ \begin{matrix}&{{x}^{2}}+2{{y}^{2}}-2=0, \\ & y=kx+1, \\\end{matrix} \right.
+228744<tiku>86<tiku>86442d26b1237d851492cb2b0464a030<tiku>\left( 2,-2 \right)=\lambda \left( 1,2 \right)+\mu\left( 1,0 \right)\Rightarrow \left\{ \begin{matrix}& 2=\lambda +\mu \\ &-2=\lambda \\\end{matrix} \right.\Rightarrow \left\{ \begin{matrix}& \lambda=-2 \\ & \mu =4 \\\end{matrix} \right.
+228745<tiku>c5<tiku>c5ea19ef61233564e8516ea8d7784046<tiku>\left\{ \begin{matrix}& {{a}_{2}}-{{a}_{1}}=a \\ & {{a}_{3}}-{{a}_{2}}=a\\\end{matrix} \right.\Rightarrow \left\{ \begin{matrix}& {{a}^{2}}-a=a \\ &3a+b-{{a}^{2}}=a \\\end{matrix} \right.\Rightarrow \left\{ \begin{matrix}& a=2\\ & b=0 \\\end{matrix} \right.
+228746<tiku>08<tiku>08efce2fcb3d252dc0865ac8bc6f4062<tiku>\left\{ \begin{matrix}&{{x}^{2}}+2{{y}^{2}}-2=0, \\ & y=kx-1, \\\end{matrix} \right.
+228747<tiku>7b<tiku>7b38a6f71b19d215b6a582944e88edfb<tiku>\left\{ \begin{matrix}& a\le 13 \\ & 2a+3\le 13 \\ & 2\left(2a+3 \right)+3>13 \\\end{matrix} \right.\Rightarrow 1 < a\le 5
+228748<tiku>dd<tiku>dd626880915da5787e327a717915dcf7<tiku>\left\{ \begin{matrix}& x\ge 0 \\ & y\ge 0 \\ & 3x+y\le120 \\ & x+y\le 60 \\\end{matrix} \right.
+228749<tiku>bd<tiku>bd946afc5c0d02bd9485dfd3ee38dcdd<tiku>\left\{ \begin{matrix}& y=kx+m, \\ & \frac{{{x}^{2}}}{4}+\frac{{{y}^{2}}}{3}=1,\\\end{matrix} \right.
+228750<tiku>43<tiku>434d840dab09015cd25486d8dcd5608a<tiku>f(x)=\left\{ \begin{matrix}& x+4+k,x\leqslant -2,x\geqslant 3 \\ & {{x}^{2}}-1+k,-2 < x < 3\\\end{matrix} \right.
+228751<tiku>e7<tiku>e74f55ccd7a6e3794d6c8e2a3992fb56<tiku>\left\{ \begin{matrix}& y=k(x+1) \\ & {{y}^{2}}=4x \\\end{matrix}\right.
+228752<tiku>d5<tiku>d51e109e78aa59253ab5e491fb8355b5<tiku>\left\{ \begin{matrix}&{{y}_{1}}+{{y}_{2}}=\frac{4}{k} \\ & {{y}_{1}}{{y}_{2}}=4 \\\end{matrix} \right.
+228753<tiku>9e<tiku>9ed7dc5a57e31bfe290c1244174696d7<tiku>\left\{ \begin{matrix}& x+z=0, \\ & -x+y=0. \\\end{matrix}\right.
+228754<tiku>d4<tiku>d45cd63c4d79e0c77399e1a27cc6c09c<tiku>\left\{ \begin{matrix}& y’=0, \\ & (2\lambda-1)x’+(-\lambda +1)y’+\lambda z’=0. \\\end{matrix} \right.
+228755<tiku>42<tiku>425b6b19d70fdab37d7e61022f389a24<tiku>\left\{ \begin{matrix}& y=k(x-2), \\ & \frac{{{x}^{2}}}{6}+\frac{{{y}^{2}}}{2}=1.\\\end{matrix} \right.
+228756<tiku>a4<tiku>a4c439a37065867b528940f017ae0e65<tiku>\left\{ \begin{matrix}& \frac{{{x}^{2}}}{3}+{{y}^{2}}=1 \\ &y=kx \\\end{matrix} \right.
+228757<tiku>4b<tiku>4bfa66b749002eb7dfe977ed629eb177<tiku>\left\{ \begin{matrix}& y=-x+3 \\ & y=-\frac{1}{k}x \\\end{matrix}\right.
+228758<tiku>6b<tiku>6b41c9962fc84583aee521e59df029a5<tiku>\left\{ \begin{matrix}& {{x}_{0}}=\frac{3k}{k-1} \\ & {{y}_{0}}=\frac{-3}{k-1}\\\end{matrix} \right.
+228759<tiku>36<tiku>364f674b1cd28d5e8075103e0f7ab853<tiku>\left\{ \begin{matrix}& 2a-1\ge 0 \\ &5-2a\ge 0 \\\end{matrix} \right.
+228760<tiku>3f<tiku>3f7d50c44c970cd669b0203bbe636622<tiku>f(x)=\left\{ \begin{matrix}& x+4+k,x\le -2,x\ge 3 \\ & {{x}^{2}}-1+k,-2< x< 3\\\end{matrix} \right.
+228763<tiku>61<tiku>6145c2f2cb6f46d9d6062665e6e462a8<tiku>\begin{matrix}&s_{甲}^{2}=\frac{1}{5}\left[ 80-120{{}^{2}}+110-120{{}^{2}}+120-120{{}^{2}}+140-120{{}^{2}}+150-120{{}^{2}}\right]= 600. \\\end{matrix}
+228764<tiku>88<tiku>881a683776e07dd30c3b79c49be8f9ba<tiku>\begin{matrix}& s_{乙}^{2}=\frac{1}{5}\left[100-120{{}^{2}}+120-120{{}^{2}}+120-120{{}^{2}}+100-120{{}^{2}}+160-120{{}^{2}}\right]  =480. \\\end{matrix}
+228765<tiku>2c<tiku>2c7b2c1281fa9af6063497afee19d1af<tiku>\left\{ \begin{matrix}& y=k(x-3), \\ & \frac{{{x}^{2}}}{6}+\frac{{{y}^{2}}}{2}=1.\\\end{matrix} \right.
+228766<tiku>42<tiku>4219d13364a5924cd05504b5087e176b<tiku>\begin{matrix} {} & {} \\\end{matrix}\\ ,
+228767<tiku>54<tiku>54bcba6cad5a5a7a8cdf9eeab486fcde<tiku>\overrightarrow{BC}=\left( x+1,y-2 \right)=\frac{1}{2}\overrightarrow{BA}=\frac{1}{2}\left(2,-1 \right)\Rightarrow \left\{ \begin{matrix}& x+1=1 \\ & y-2=-\frac{1}{2}\\\end{matrix} \right.\Rightarrow \left\{ \begin{matrix}& x=0 \\ & y=\frac{3}{2}\\\end{matrix} \right.
+228768<tiku>d3<tiku>d366b7b080e9ddff920a8c2343ecbb73<tiku>\left\{ \begin{matrix}& e=\frac{c}{a}=\frac{1}{2}, \\ & a-c=1.\\\end{matrix} \right.
+228769<tiku>50<tiku>505919fb042d6101a709e5d57d219688<tiku>\left\{ \begin{matrix}& {{a}_{2}}=3 \\& {{a}_{3}}+{{a}_{4}}=9 \\\end{matrix} \right.\Rightarrow \left\{ \begin{matrix}&{{a}_{1}}+d=3 \\ & {{a}_{1}}+2d+{{a}_{1}}+3d=9 \\\end{matrix} \right.\Rightarrow\left\{ \begin{matrix}& {{a}_{1}}\text{=}2 \\ & d=1 \\\end{matrix} \right.\Rightarrow{{a}_{6}}=7
+228770<tiku>03<tiku>03a84fab49cdeb25f99a409b159e454c<tiku>\left\{ \begin{matrix}&\Delta ={{a}^{2}}-4a>0 \\ & {{x}_{1}}+{{x}_{2}}=-a>0 \\ & {{x}_{1}}\cdot{{x}_{2}}=a>0 \\\end{matrix} \right.\Rightarrow a>4
+228772<tiku>58<tiku>5842347ab445d34e21539f6e8e8e0cce<tiku>\left\{ \begin{matrix}& 1=2px \\ & 4=2p\cdot \left( x+\sqrt{3}\right) \\\end{matrix} \right.\Rightarrow \left\{ \begin{matrix}& x=\frac{\sqrt{3}}{3}\\ & p=\frac{\sqrt{3}}{2} \\\end{matrix} \right.
+228773<tiku>27<tiku>2740b599e7895c61c41363c27bc8c347<tiku>\left\{ \begin{matrix}& n\cdot \overrightarrow{PC}=0, \\ &n\cdot \overrightarrow{BC}=0. \\\end{matrix} \right.
+228774<tiku>ec<tiku>ec01268622096265ee71070724af1177<tiku>\left\{ \begin{matrix}& 4y-4z=0, \\ & -\sqrt{3}x+3y=0. \\\end{matrix}\right.
+228775<tiku>c0<tiku>c0a1b86bff27bd19e688c1d69a457423<tiku>\left\{ \begin{matrix}& 0\leqslant x\leqslant 1 \\ & 0\leqslantx+y\leqslant 2 \\\end{matrix}\right.
+228776<tiku>95<tiku>95fca7d7aa34b79911ce034ef3d9120c<tiku>\left\{ \begin{matrix}& 0\leqslant \frac{u+v}{2}\leqslant1 \\ & 0\leqslant u\leqslant2 \\\end{matrix} \right.
+228777<tiku>4e<tiku>4e2bd868b30e9448fb45c05575c5685e<tiku>OA\botOB
+228778<tiku>66<tiku>667e48ac381c376c72cbaf35432bfdf3<tiku>\triangleBCD
+228779<tiku>e2<tiku>e292927b1f602813a967d5bcfd323a6e<tiku>\triangleB{{C}^{‘}}D
+228781<tiku>ff<tiku>ff33c4b72d574013d0197cf596e8f2a9<tiku>\begin{cases}x-y\geqslant0\\x+y-2\leqslant0\\y\geqslanta\\\end{cases}
+228782<tiku>66<tiku>66345d906712531d26e0b5f63a429ff6<tiku>2\leqslantk\leqslantn\left(k\in {{\mathbf{N}}^{*}} \right)
+228783<tiku>ec<tiku>ec643959180eac5879d8960acab90615<tiku>AD’\not\sub‍‍set
+228784<tiku>25<tiku>2547a5eb8ae007463db10f60b896b649<tiku>-\frac{2}{3}\geqslanta1
+228785<tiku>de<tiku>de650de882531cd0bf2335e1cf6e9796<tiku>\sin \left( x-\frac{\text{ }\!\!\pi\!\!\text{ }}{2} \right)+1=1-\cosx
+228786<tiku>b8<tiku>b823e8661539d8712b2b3776069cf496<tiku>\begin{array} {|c|c|c|c|}\hline 多面体 & 面数 （F）&　顶点数（V）　&　棱数（E）　\\ \hline 三棱锥 & 5 & 6 & 9 \\ \hline 五棱锥 & 6 & 6 & 10 \\ \hline 立方体 & 6 & 8 & 12 \\ \hline \end{array}
+228787<tiku>3f<tiku>3f297bfe1649c612f27a7acd69da96d5<tiku>\begin{array} {|c|c|c|c|} \hline  & u={{x}^{2}}+2x+k & \frac{1}{\sqrt{{{u}^{2}}+2u-3}} & f(x) \\ \hline  (-\infty \ ，\ -1-\sqrt{2-k}) & ↘ & ↘ & ↗ \\ \hline (-1-\sqrt{-k-2}\ ，\ -1) & ↘&  ↗ & ↘ \\ \hline  (-1\ ，\ -1+\sqrt{-k-2}) & ↗  & ↗ & ↗ \\ \hline (-1+\sqrt{2-k}\ ，\ +\infty ) & ↗ & ↘ & ↘ \\ \hline \end{array}
+228788<tiku>a7<tiku>a7340002c05fac800191df4b62e13d1a<tiku>~[\text{2}\sqrt{2}{{({{r}_{2}}+{{r}_{3}})}^{\text{3}}}{{N}_{\text{A}}}]\ \text{g}\cdot \text{c}{{\text{m}}^{-\text{3}}}
+228789<tiku>aa<tiku>aac5649afad905278330c77b65011170<tiku>~\text{5}0\text{ }\!\!\pi\!\!\text{ }
+228790<tiku>38<tiku>3879f2a795a727d65773b5b0dc7c63d6<tiku>\left( \frac{1}{2}{{x}^{2}}-\frac{1}{3}{{x}^{3}}-\frac{k}{2}{{x}^{2}} \right)\left| _{\begin{smallmatrix}1-k \\ 0  \end{smallmatrix}
+228791<tiku>af<tiku>af33ead37c1d70f961cb49dd64ff039a<tiku>4\text{N}{{\text{H}}_{\text{3}}}+3{{\text{O}}_{\text{2}}}\underset{{}}{\overset{\\ \\ \\ \ }{\mathop{\text{====}}}}\，2{{\text{N}}_{\text{2}}}+6{{\text{H}}_{\text{2}}}\text{O}
+228792<tiku>63<tiku>63b3b814a3d3afbd9bd0367a27669ce1<tiku>\text{C}+2{{\text{H}}_{\text{2}}}\text{S}{{\text{O}}_{\text{4}}}\left( \right)\underset{{}}{\overset{\triangle }{\mathop{===}}}\，\text{C}{{\text{O}}_{\text{2}}}\uparrow \text{+}2\text{S}{{\text{O}}_{\text{2}}}\uparrow \text{+}2{{\text{H}}_{\text{2}}}\text{O}
+228793<tiku>2f<tiku>2f2143dec0102d9ca409467806608a05<tiku>{{\left( \text{C}{{\text{H}}_{\text{3}}} \right)}_{\text{3}}}\text{Ga}+\text{As}{{\text{H}}_{3}}\underset{{}}{\overset{\\ \ 700\\ \\ }{\mathop{\text{====}}}}\，3\text{C}{{\text{H}}_{4}}+\text{GaAs}
+228794<tiku>22<tiku>22fb54db6236c8df799616aef793348e<tiku>\text{1}\mathsf{\，\!:}\text{4}
+228795<tiku>4e<tiku>4ec2bfd19cb43b56b195cff2f461caf4<tiku>\text{1}\mathsf{\，\!:}\text{1}
+228798<tiku>12<tiku>122f0c592839e0ace7011fca75ef7982<tiku>\text{1}\mathsf{\，\!:}\text{3}
+228799<tiku>ea<tiku>eab96a359935a622e16885a41b3f3aa7<tiku>~\text{2Al}+\text{2NaOH}+\text{2}{{\text{H}}_{\text{2}}}\text{O}===\text{2NaAl}{{\text{O}}_{\text{2}}}\text{ }+\text{3}{{\text{H}}_{\text{2}}}\uparrow
+228800<tiku>5d<tiku>5d961a049ef11728c30e3b462d3476fb<tiku>\text{2N}{{\text{H}}_{\text{4}}}\text{Cl}+\text{Ca}{{\left( \text{OH} \right)}_{\text{2}}}\overset{\mathsf{\triangle }}{\mathop{===}}\，\text{CaC}{{\text{l}}_{\text{2}}}+\text{2}{{\text{H}}_{\text{2}}}\text{O}\mathsf{}\text{2N}{{\text{H}}_{\text{3}}}\uparrow
+228801<tiku>53<tiku>530faf2793fc2ce12c525d25c2207f63<tiku>\text{6}\，\!:\text{1}\，\!:\text{4}
+228802<tiku>2e<tiku>2e40273c342ed1a1fb781fce4e9fdf25<tiku>\text{l}\，\!:\text{1}\，\!:\text{2}
+228803<tiku>90<tiku>904140aa212398b6693574602b1639d7<tiku>\text{6}\mathsf{\，\!:}\text{1}\mathsf{\，\!:}\text{4}
+228804<tiku>94<tiku>949d45538758146df7c4ecb5ae9b42bc<tiku>\text{1}\mathsf{\，\!:}\text{1}\mathsf{\，\!:}\text{2}
+228805<tiku>a5<tiku>a5caced933287f260d36ba3b1d4e5603<tiku>\text{1}\mathsf{\，\!:}\text{2}
+228806<tiku>05<tiku>053af31b89e777f6e0752944c00d4a68<tiku>\text{Ca}{{\left( \text{HC}{{\text{O}}_{3}} \right)}_{2}}\overset{\triangle }{\mathop{===}}\，\text{CaC}{{\text{O}}_{3}}+{{\text{H}}_{2}}\text{O+C}{{\text{O}}_{2}}\uparrow
+228807<tiku>e6<tiku>e6901582f9b98e008362cffe6f40176d<tiku>\text{C}{{\text{H}}_{3}}\text{COOC}{{\text{H}}_{2}}\text{C}{{\text{H}}_{3}}\text{+}{{\text{H}}_{2}}\text{O}\underset{\triangle }{\overset{{{\text{H}}^{+}}}{\mathop{\rightleftharpoons }}}\，\text{C}{{\text{H}}_{3}}\text{COOH+C}{{\text{H}}_{3}}\text{C}{{\text{H}}_{2}}\text{OH}
+228808<tiku>d2<tiku>d2e8380ccd86ded52f1ef62c617dc48a<tiku>\text{C}{{\text{H}}_{\text{3}}}\text{COOC}{{\text{H}}_{\text{2}}}\text{C}{{\text{H}}_{\text{3}}}\underset{\triangle }{\overset{{{\text{H}}^{+}}}{\mathop{\rightleftharpoons }}}\，\text{C}{{\text{H}}_{\text{3}}}\text{COOH}+\text{C}{{\text{H}}_{\text{3}}}\text{C}{{\text{H}}_{\text{2}}}\text{OH}
+228809<tiku>7b<tiku>7ba78b4107ec9cb96278aed05a505c3c<tiku>\text{1}\，\!:\text{2}
+228810<tiku>33<tiku>33e447710beee2142dfa95b648bc17ee<tiku>\text{CO}\left( \text{g} \right)\text{+}{{\text{H}}_{\text{2}}}\text{O}\left( \text{g} \right)\overset{}{\mathop{\rightleftharpoons }}\，\text{C}{{\text{O}}_{\text{2}}}\left( \text{g} \right)\text{+}{{\text{H}}_{\text{2}}}\left( \text{g} \right)
+228811<tiku>82<tiku>821b3b3d123a3ad253f14c2fd549bd58<tiku>\frac{c(\text{C}{{\text{O}}_{\text{2}}})\cdot c({{\text{H}}_{\text{2}}})}{c(\text{CO})\cdot c({{\text{H}}_{\text{2}}}\text{O})}~=4>K
+228812<tiku>96<tiku>96977b3b9acd6d03ec67911321a20d78<tiku>\underset{}{\overset{\text{C}{{\text{l}}_{\text{2}}}/}{\mathop{\to }}}\，\text{C}\underset{}{\overset{\text{NaOH}/}{\mathop{\to }}}\，\text{D}\underset{}{\overset{{{\text{O}}_{\text{2}}}\text{Cu}/}{\mathop{\to }}}\，\text{E}\underset{}{\overset{\text{HI}}{\mathop{\to }}}\，\text{PHBA}
+228813<tiku>89<tiku>8987019fe5dc7cb2b108dbad1f5ad46c<tiku>1\，\!:2
+228814<tiku>52<tiku>52d05521e894e31b0d8a6981d10acff9<tiku>\text{NO}\underset{}{\overset{{{\text{O}}_{3}}}{\mathop{\to }}}\，\text{N}{{\text{O}}_{\text{2}}}\underset{}{\overset{\text{CO(N}{{\text{H}}_{\text{2}}}{{\text{)}}_{\text{2}}}}{\mathop{\to }}} {{\text{N}}_{\text{2}}}
+228815<tiku>7b<tiku>7b674e3063c3a1bfa414f81b62ae47b3<tiku>n(\text{N}{{\text{O}}_{\text{2}}})\，\!:n[\text{CO(N}{{\text{H}}_{\text{2}}}{{\text{)}}_{2}}]=3\，\!:2
+228816<tiku>27<tiku>277540b278e0cdc293026587611a1695<tiku>n\left( \text{N}{{\text{O}}_{2}} \right)\，\!:n\left[ \text{CO}{{\left( \text{N}{{\text{H}}_{2}} \right)}_{2}} \right]=3\，\!:2
+228817<tiku>9f<tiku>9f3379573375a7b103c62d2395539631<tiku>n\，\!:\left( 1-n \right)=3\，\!:1
+228818<tiku>3e<tiku>3ea02f85a3ca14e9c19ded5b7da0e723<tiku>n\left( \text{C}{{\text{u}}^{\text{2}+}} \right)\，\!:n\left( \text{SO}_{3}^{2-} \right)=\text{2}\，\!:\text{1}
+228819<tiku>f4<tiku>f45a39ad8c459192a44ef79bd4c456b8<tiku>\text{1}\，\!:\text{1}
+228820<tiku>70<tiku>701b9906b20d5b9ad107502416170ac3<tiku>{{\text{N}}_{\text{2}}}\text{6}{{\text{H}}_{\text{2}}}\text{O}\underset{{}}{\overset{\text{通电}}{\mathop{=\!=\!=}}}\，\text{4N}{{\text{H}}_{\text{3}}}\text{3}{{\text{O}}_{\text{2}}}
+228821<tiku>b2<tiku>b2c705fa6e4a2ce22960ad2943d7c89f<tiku>2\text{HI}{{\text{O}}_{3}}\overset{\vartriangle }{\mathop{=\!=\!=}}\，{{\text{I}}_{2}}{{\text{O}}_{5}}+{{\text{H}}_{2}}\text{O}
+228822<tiku>b3<tiku>b3f836980b9e76e1c95c50e57d3d38c5<tiku>~\text{ }\!\!~\!\!\text{ 1}\text{.0 mol}\centerdot {{\text{L}}^{\text{1}}}
+228823<tiku>22<tiku>22754416d6a8f7d79e4493359ea73033<tiku>{{N}_{A}}~~~~
+228824<tiku>ab<tiku>abd1906bafa8e22482ef55312ae171de<tiku>~\text{3Cu}+\text{8HN}{{\text{O}}_{\text{3}}}(\mathsf{})=\!=\!=\text{3Cu}{{(\text{N}{{\text{O}}_{\text{3}}})}_{\text{2}}}+\text{2NO}\uparrow +\text{4}{{\text{H}}_{\text{2}}}\text{O}
+228825<tiku>61<tiku>616d33526da70ec7f1c978b616625806<tiku>\text{NH}_{\text{4}}^{+}+\text{HSO}_{\text{3}}^{-}+\text{2O}{{\text{H}}^{-}}\overset{\mathsf{\vartriangle }}{\mathop{=\!=\!=}}\，\text{N}{{\text{H}}_{\text{3}}}\uparrow +\text{SO}_{\text{3}}^{2-}+\text{2}{{\text{H}}_{\text{2}}}\text{O}
+228827<tiku>97<tiku>970c3bf3de8a4fad13a51ad21888ab94<tiku>~\text{F}\to \text{G}
+228828<tiku>6c<tiku>6c907f4016d1923062c12e53bc0615b4<tiku>~\text{ }\!\!\%\!\!\text{ }
